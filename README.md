@@ -1,7 +1,7 @@
 CAIB's Image Processing Library
 ====
 
-
+#Essa é minha copia!
 
 ##Welcome
 
@@ -24,4 +24,6 @@ This library contains many funtions for:
 * Image Color Analysis
 * Histogram Analysis
 * Segmentation Evaluation
+
+
 
